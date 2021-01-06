@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="52px" viewBox="0 0 5 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FF7B2AFE-9B9A-47BA-B4FF-8883338326DF</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFD200" offset="0%"></stop>
+            <stop stop-color="#FFBE00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Radio-live" transform="translate(-72.000000, -306.000000)">
+            <g id="Group-4" transform="translate(74.000000, 306.500000)">
+                <line x1="0.5" y1="0" x2="0.5" y2="51" id="Line" stroke="#FFBE00" stroke-linecap="square"></line>
+                <line x1="0.5" y1="16" x2="0.5" y2="39" id="Line" stroke="url(#linearGradient-1)" stroke-width="4" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

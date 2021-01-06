@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>303FF0CA-A37A-425B-862F-427FB2DB6E5D</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFD200" offset="0%"></stop>
+            <stop stop-color="#FFBE00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Radio-live" transform="translate(-296.000000, -416.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="heart" transform="translate(296.000000, 416.979381)">
+                <path d="M12.4235546,9.21019089 C11.0077031,10.7687028 9.28306804,12.0936417 8,12.9803896 C6.71693196,12.0936072 4.99229691,10.7687028 3.57647835,9.21019089 C1.85999175,7.32080705 0.989690722,5.53480342 0.989690722,3.90179697 C0.989690722,1.77960036 2.63815258,0.0530610833 4.66437938,0.0530610833 C5.83092784,0.0530610833 6.90253196,0.614292597 7.60435464,1.59281113 L8,2.14443712 L8.39564536,1.59281113 C9.09746804,0.614292597 10.1690722,0.0530610833 11.3356206,0.0530610833 C13.3618474,0.0530610833 15.0103093,1.77960036 15.0103093,3.90179697 C15.0103093,5.53480342 14.1399753,7.32080705 12.4235546,9.21019089 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
