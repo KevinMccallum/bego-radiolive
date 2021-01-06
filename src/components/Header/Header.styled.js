@@ -9,7 +9,7 @@ export const MenuContainer = styled.div`
 
 export const Heading = styled.h1`
   color: #ffffff;
-  font-family: Avenir;
+  font-family: Avenir-heavy;
   font-size: 18px;
   font-weight: 900;
   letter-spacing: 0;

@@ -22,7 +22,7 @@ export const UserWrapper = styled.div`
 
   .user-name {
     height: 15px;
-    font-family: Avenir;
+    font-family: Avenir-heavy;
     font-size: 12px;
     font-weight: 900;
     letter-spacing: 0;
